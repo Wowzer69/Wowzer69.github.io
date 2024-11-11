@@ -3,11 +3,8 @@ api.game
 api.game.widgets
 api.scripts
 api.scripts.randoms
-api.utility
 api.utility.commons
-api.utility.config
 api.utility.find.query
-api.utility.find.widgets
 api.utility.pathing
 api.wrappers
 api.wrappers.debug
